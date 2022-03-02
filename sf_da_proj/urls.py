@@ -1,0 +1,17 @@
+jan22 = 'https://web.archive.org/web/20220122065815/https://www.sfchronicle.com/'
+jan23 = 'https://web.archive.org/web/20220123085839/https://www.sfchronicle.com/'
+jan24 = 'https://web.archive.org/web/20220124085840/https://www.sfchronicle.com/'
+jan25 = 'https://web.archive.org/web/20220125101013/https://www.sfchronicle.com/'
+jan26 = 'https://web.archive.org/web/20220126103208/https://www.sfchronicle.com/'
+jan27 = 'https://web.archive.org/web/20220127104349/https://www.sfchronicle.com/'
+jan28 = 'https://web.archive.org/web/20220128113844/https://www.sfchronicle.com/'
+jan29 = 'https://web.archive.org/web/20220129124353/https://www.sfchronicle.com/'
+jan30 = 'https://web.archive.org/web/20220130133106/https://www.sfchronicle.com/'
+jan31 = 'https://web.archive.org/web/20220131134421/https://www.sfchronicle.com/'
+feb01= 'https://web.archive.org/web/20220201152308/https://www.sfchronicle.com/'
+feb02 = 'https://web.archive.org/web/20220202153303/https://www.sfchronicle.com/'
+feb03 = 'https://web.archive.org/web/20220203171644/https://www.sfchronicle.com/'
+feb04 = 'https://web.archive.org/web/20220204172338/https://www.sfchronicle.com/'
+feb05 = 'https://web.archive.org/web/20220205173245/http://sfchronicle.com/'
+
+month_urls = [jan22, jan23, jan24, jan25, jan26, jan27, jan28, jan29, jan30, jan31, feb01, feb02, feb03, feb04, feb05]
